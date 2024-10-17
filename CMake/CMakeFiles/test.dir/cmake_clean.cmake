@@ -1,4 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o"
+  "CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o.d"
+  "CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o"
+  "CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o.d"
   "CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp.o"
   "CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp.o.d"
   "test"

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/test.dir/src/main.cpp.o -o test  -Wl,-rpath,/home/horia/projects/cpp/VSCode/SFMLgame/CMake/../SFML/lib CMake/../SFML/lib/libsfml-graphics.so 

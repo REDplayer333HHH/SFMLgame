@@ -129,6 +129,54 @@ test/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
 .PHONY : test/fast
 
+home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.o: home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o
+.PHONY : home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.o
+
+# target to build an object file
+home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o
+.PHONY : home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o
+
+home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.i: home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.i
+.PHONY : home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.i
+
+# target to preprocess a source file
+home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.i
+.PHONY : home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.i
+
+home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.s: home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.s
+.PHONY : home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.s
+
+# target to generate assembly for a file
+home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.s
+.PHONY : home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.s
+
+home/horia/projects/cpp/VSCode/SFMLgame/src/Player.o: home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o
+.PHONY : home/horia/projects/cpp/VSCode/SFMLgame/src/Player.o
+
+# target to build an object file
+home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o
+.PHONY : home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o
+
+home/horia/projects/cpp/VSCode/SFMLgame/src/Player.i: home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.i
+.PHONY : home/horia/projects/cpp/VSCode/SFMLgame/src/Player.i
+
+# target to preprocess a source file
+home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.i
+.PHONY : home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.i
+
+home/horia/projects/cpp/VSCode/SFMLgame/src/Player.s: home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.s
+.PHONY : home/horia/projects/cpp/VSCode/SFMLgame/src/Player.s
+
+# target to generate assembly for a file
+home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.s
+.PHONY : home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.s
+
 home/horia/projects/cpp/VSCode/SFMLgame/src/main.o: home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp.o
 .PHONY : home/horia/projects/cpp/VSCode/SFMLgame/src/main.o
 
@@ -162,6 +210,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... test"
+	@echo "... home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.o"
+	@echo "... home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.i"
+	@echo "... home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.s"
+	@echo "... home/horia/projects/cpp/VSCode/SFMLgame/src/Player.o"
+	@echo "... home/horia/projects/cpp/VSCode/SFMLgame/src/Player.i"
+	@echo "... home/horia/projects/cpp/VSCode/SFMLgame/src/Player.s"
 	@echo "... home/horia/projects/cpp/VSCode/SFMLgame/src/main.o"
 	@echo "... home/horia/projects/cpp/VSCode/SFMLgame/src/main.i"
 	@echo "... home/horia/projects/cpp/VSCode/SFMLgame/src/main.s"

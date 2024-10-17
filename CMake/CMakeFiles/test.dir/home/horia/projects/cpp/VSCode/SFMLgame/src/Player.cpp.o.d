@@ -1,5 +1,5 @@
-CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp.o: \
- /home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp \
+CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o: \
+ /home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp \
  /usr/include/stdc-predef.h \
  /home/horia/projects/cpp/VSCode/SFMLgame/CMake/../SFML/include/SFML/Graphics.hpp \
  /home/horia/projects/cpp/VSCode/SFMLgame/CMake/../SFML/include/SFML/Window.hpp \
@@ -259,4 +259,6 @@ CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp.o: \
  /home/horia/projects/cpp/VSCode/SFMLgame/CMake/../SFML/include/SFML/Graphics/Sprite.hpp \
  /home/horia/projects/cpp/VSCode/SFMLgame/CMake/../SFML/include/SFML/Graphics/Text.hpp \
  /home/horia/projects/cpp/VSCode/SFMLgame/CMake/../SFML/include/SFML/Graphics/VertexBuffer.hpp \
- /home/horia/projects/cpp/VSCode/SFMLgame/src/../include/GameManager.h
+ /home/horia/projects/cpp/VSCode/SFMLgame/src/../include/Player.h \
+ /usr/include/c++/11/iostream /usr/include/c++/11/istream \
+ /usr/include/c++/11/bits/istream.tcc

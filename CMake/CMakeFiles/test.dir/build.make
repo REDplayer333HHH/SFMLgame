@@ -83,20 +83,52 @@ CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp.s: cmak
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp -o CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp.s
 
+CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o: CMakeFiles/test.dir/flags.make
+CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o: /home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp
+CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o: CMakeFiles/test.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/horia/projects/cpp/VSCode/SFMLgame/CMake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o -MF CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o.d -o CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o -c /home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp
+
+CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp > CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.i
+
+CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp -o CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.s
+
+CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o: CMakeFiles/test.dir/flags.make
+CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o: /home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp
+CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o: CMakeFiles/test.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/horia/projects/cpp/VSCode/SFMLgame/CMake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o -MF CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o.d -o CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o -c /home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp
+
+CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp > CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.i
+
+CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp -o CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.s
+
 # Object files for target test
 test_OBJECTS = \
-"CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp.o"
+"CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp.o" \
+"CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o" \
+"CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o"
 
 # External object files for target test
 test_EXTERNAL_OBJECTS =
 
 test: CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp.o
+test: CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o
+test: CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o
 test: CMakeFiles/test.dir/build.make
 test: ../SFML/lib/libsfml-graphics.so
 test: ../SFML/lib/libsfml-window.so
 test: ../SFML/lib/libsfml-system.so
 test: CMakeFiles/test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/horia/projects/cpp/VSCode/SFMLgame/CMake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/horia/projects/cpp/VSCode/SFMLgame/CMake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

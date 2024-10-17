@@ -8,6 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp" "CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o" "gcc" "CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/GameManager.cpp.o.d"
+  "/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp" "CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o" "gcc" "CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o.d"
   "/home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp" "CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp.o" "gcc" "CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/main.cpp.o.d"
   )
 

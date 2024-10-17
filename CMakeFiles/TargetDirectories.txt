@@ -1,3 +1,0 @@
-/home/horia/projects/cpp/VSCode/SFMLgame/CMakeFiles/test.dir
-/home/horia/projects/cpp/VSCode/SFMLgame/CMakeFiles/edit_cache.dir
-/home/horia/projects/cpp/VSCode/SFMLgame/CMakeFiles/rebuild_cache.dir

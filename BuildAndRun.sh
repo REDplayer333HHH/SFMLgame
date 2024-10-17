@@ -1,3 +1,5 @@
-cmake CMake
-make CMake
-./CMake/test
+cd CMake
+cmake .
+make
+./test
+cd ..
