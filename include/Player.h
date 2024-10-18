@@ -11,18 +11,23 @@ public:
 	void render(sf::RenderWindow& window);
 	void handleInput(sf::RenderWindow& window);
 	void addGravity();
+	void updatePos();
 private:
 	// fields
 
 		// look
-	sf::CircleShape m_playerBody;
-	float m_radius{ 50.0f };
+	sf::RectangleShape m_playerBody;
+	float m_sideLength{50.0f};
 	sf::Color m_color{ sf::Color::Yellow };
 
+		// position
+	double m_posx;
+	double m_posy;
+
 		// physics
-	float m_speed{ 2.0f };
-	float m_baseGravity{ 0.001f };
-	float m_tempGravity{ 0.0f };
+	double m_speed{ 4.0f };
+	double m_baseGravity{ 0.01f };
+	double m_tempGravity{ 0.0f };
 
 	// methods
 	void initBody();

@@ -8,7 +8,7 @@ GameManager::GameManager() {}
 
 void GameManager::run(){
     // create window
-	sf::RenderWindow m_window(sf::VideoMode(800, 600), "My game");
+	sf::RenderWindow m_window(sf::VideoMode(screenWidth, screenHeight), "My game");
     // instantiate all necessary 1-time objects
     Player player;
     while (m_window.isOpen()) {
@@ -29,6 +29,7 @@ void GameManager::run(){
             // Player:
         player.handleInput(m_window);
         player.addGravity();
+        player.updatePos();
         player.render(m_window);
 
         m_window.display();

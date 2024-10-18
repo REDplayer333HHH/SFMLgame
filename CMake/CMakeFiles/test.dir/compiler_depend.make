@@ -608,6 +608,7 @@ CMakeFiles/test.dir/home/horia/projects/cpp/VSCode/SFMLgame/src/Player.cpp.o: /h
   /home/horia/projects/cpp/VSCode/SFMLgame/SFML/include/SFML/Graphics/Text.hpp \
   /home/horia/projects/cpp/VSCode/SFMLgame/SFML/include/SFML/Graphics/VertexBuffer.hpp \
   /home/horia/projects/cpp/VSCode/SFMLgame/include/Player.h \
+  /home/horia/projects/cpp/VSCode/SFMLgame/include/GameManager.h \
   /usr/include/c++/11/iostream \
   /usr/include/c++/11/istream \
   /usr/include/c++/11/bits/istream.tcc
